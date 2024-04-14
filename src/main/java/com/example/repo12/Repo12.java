@@ -1,9 +1,11 @@
 package com.example.repo12;
 
+import java.net.HttpURLConnection;
+
 public class Repo12 {
 
 
-    // Class representing the Weather Forecasting Applicationn
+    // Class representing the Weather Forecasting Application
     public class WeatherForecastApp {
         private static final String API_KEY = "YOUR_API_KEY"; // Replace with your OpenWeatherMap API key
 
