@@ -1,13 +1,9 @@
 package com.example.repo12;
 
 public class Repo12 {
-    import org.json.JSONObject;
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
-import java.net.HttpURLConnection;
-import java.net.URL;
 
-    // Class representing the Weather Forecasting Application
+
+    // Class representing the Weather Forecasting Applicationn
     public class WeatherForecastApp {
         private static final String API_KEY = "YOUR_API_KEY"; // Replace with your OpenWeatherMap API key
 
