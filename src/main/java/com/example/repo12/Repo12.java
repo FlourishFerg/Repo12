@@ -3,7 +3,7 @@ package com.example.repo12;
 public class Repo12 {
 
 
-    // Class representing the Weather Forecasting Application
+    // Class representing the Weather Forecasting Applicationn
     public class WeatherForecastApp {
         private static final String API_KEY = "YOUR_API_KEY"; // Replace with your OpenWeatherMap API key
 
